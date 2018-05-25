@@ -15,7 +15,8 @@ Software and technology underpin modern science. There is an increasing demand f
 
 ## Development team
 - [Alex Morley](https://twitter.com/alex__morley), Open Sourceror, University of Oxford.
-- [Kev�n Moerman](https://twitter.com/KMMoerman), Open Sourceror, MIT.
+- [Kevín Moerman](https://twitter.com/KMMoerman), Open Sourceror, MIT.
+- [Simon Worthington](https://twitter.com/mrchristian99), Free & Open Sourceror, TIB – German National Library of Science and Technology.
 
 
 ## Key documents <a name="Key documents"></a>
